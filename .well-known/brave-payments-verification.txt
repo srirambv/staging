@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: srirambv.github.io 
+Token: 9fd500f55e6a0d5a529b9e0254085c9021b091c53b49b8965e95760b44fdd92e
